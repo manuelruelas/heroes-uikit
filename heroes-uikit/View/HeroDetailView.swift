@@ -17,7 +17,8 @@ class HeroDetailView: UIViewController {
     
     var hero : Hero?
     override func viewDidLoad() {
-        
+        heroImage.contentMode = .scaleAspectFill
+        heroImage.asCircle()
     }
     override func viewWillAppear(_ animated: Bool) {
         fetchData()
