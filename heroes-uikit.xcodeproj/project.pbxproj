@@ -28,6 +28,7 @@
 		AD212289249AB70200D3B2C0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AD212287249AB70100D3B2C0 /* Main.storyboard */; };
 		AD21228E249C193100D3B2C0 /* LoadingCollectionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD21228C249C193100D3B2C0 /* LoadingCollectionCell.swift */; };
 		AD21228F249C193100D3B2C0 /* LoadingCollectionCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = AD21228D249C193100D3B2C0 /* LoadingCollectionCell.xib */; };
+		AD212291249C2AF900D3B2C0 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = AD212290249C2AF900D3B2C0 /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -55,6 +56,7 @@
 		AD212288249AB70100D3B2C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		AD21228C249C193100D3B2C0 /* LoadingCollectionCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingCollectionCell.swift; sourceTree = "<group>"; };
 		AD21228D249C193100D3B2C0 /* LoadingCollectionCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = LoadingCollectionCell.xib; sourceTree = "<group>"; };
+		AD212290249C2AF900D3B2C0 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		C2AF9EAEFBB24680ADBB2C0A /* Pods-heroes-uikit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-heroes-uikit.release.xcconfig"; path = "Target Support Files/Pods-heroes-uikit/Pods-heroes-uikit.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -102,6 +104,7 @@
 				AD2122522497247D00D3B2C0 /* Assets.xcassets */,
 				AD2122542497247D00D3B2C0 /* LaunchScreen.storyboard */,
 				AD2122572497247D00D3B2C0 /* Info.plist */,
+				AD212290249C2AF900D3B2C0 /* .gitignore */,
 			);
 			path = "heroes-uikit";
 			sourceTree = "<group>";
@@ -245,6 +248,7 @@
 				AD2122532497247D00D3B2C0 /* Assets.xcassets in Resources */,
 				AD21228F249C193100D3B2C0 /* LoadingCollectionCell.xib in Resources */,
 				AD212282249A3F8700D3B2C0 /* LoadingCell.xib in Resources */,
+				AD212291249C2AF900D3B2C0 /* .gitignore in Resources */,
 				AD212289249AB70200D3B2C0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
