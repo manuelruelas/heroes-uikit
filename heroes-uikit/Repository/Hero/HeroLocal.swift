@@ -22,7 +22,7 @@ class HeroLocal{
             if remaining <= 0{
                 return []
             } else{
-                return Array(heroes[skip...skip+remaining])
+                return Array(heroes[skip...skip+remaining-1])
             }
         }
     }
