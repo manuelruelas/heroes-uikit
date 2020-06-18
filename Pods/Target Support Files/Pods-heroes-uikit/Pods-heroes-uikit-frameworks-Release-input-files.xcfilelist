@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-heroes-uikit/Pods-heroes-uikit-frameworks.sh
+${BUILT_PRODUCTS_DIR}/CombineDataSources/CombineDataSources.framework
+${BUILT_PRODUCTS_DIR}/Realm/Realm.framework
+${BUILT_PRODUCTS_DIR}/RealmSwift/RealmSwift.framework
